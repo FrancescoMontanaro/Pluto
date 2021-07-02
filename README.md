@@ -7,4 +7,8 @@ The objective was to create one single robot, easy to use, that could be deploye
 
 ![upload-9f7af569-ea33-47bf-8c29-f973d71db6ad](https://user-images.githubusercontent.com/56433128/124288572-9c892680-db51-11eb-9521-fcc2d96d683e.png)
 
-Since the time was short, our approach was learn by doing. Starting with fast, cheap but in scale models to understand what each group member had in mind.
+Here are some videos of the final Robot.
+
+https://user-images.githubusercontent.com/56433128/124289363-8334aa00-db52-11eb-8380-9e9f99b27d3f.mp4
+
+https://user-images.githubusercontent.com/56433128/124289910-1ff74780-db53-11eb-92a0-367e7a38fcab.mp4
