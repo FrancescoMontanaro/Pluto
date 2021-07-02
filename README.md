@@ -11,4 +11,3 @@ Here are some videos of the final Robot.
 
 https://user-images.githubusercontent.com/56433128/124289363-8334aa00-db52-11eb-8380-9e9f99b27d3f.mp4
 
-https://user-images.githubusercontent.com/56433128/124289910-1ff74780-db53-11eb-92a0-367e7a38fcab.mp4
