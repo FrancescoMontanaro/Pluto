@@ -5,12 +5,14 @@ The objective was to create one single robot, easy to use, that could be deploye
 - First scenario is during covid, so the idea was to attract people at train stations, or semi-public areas with the objective of getting peoples attention and inviting them to visit the virtual exposition
 - The second one was to be placed inside the museum after it opens, being part of the exhibition itself.
 
+All the detailed information are contained in the file 'Report.pdf'.
+
+Some pictures and videos of the final Robot are shown below:
+
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/56433128/124288572-9c892680-db51-11eb-9521-fcc2d96d683e.png" width="48%" style="margin-right: 4%">
   <img src="https://user-images.githubusercontent.com/56433128/124291650-1242c180-db55-11eb-985d-493ca74929bf.jpg" width="48%">
 </div>
-
-Here are some videos of the final Robot.
 
 https://user-images.githubusercontent.com/56433128/124289363-8334aa00-db52-11eb-8380-9e9f99b27d3f.mp4
 
