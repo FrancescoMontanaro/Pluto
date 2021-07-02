@@ -6,7 +6,7 @@ The objective was to create one single robot, easy to use, that could be deploye
 - The second one was to be placed inside the museum after it opens, being part of the exhibition it self.
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-  <img src="https://user-images.githubusercontent.com/56433128/124288572-9c892680-db51-11eb-9521-fcc2d96d683e.png" width="48%" style="margin-left: 2%">
+  <img src="https://user-images.githubusercontent.com/56433128/124288572-9c892680-db51-11eb-9521-fcc2d96d683e.png" width="48%" style="margin-right: 4%">
   <img src="https://user-images.githubusercontent.com/56433128/124291650-1242c180-db55-11eb-985d-493ca74929bf.jpg" width="48%">
 </div>
 
