@@ -1,8 +1,8 @@
 # Pluto
 
-Pluto is a robot built to engage people to visit the virtual exposition of the space exhibition at the Museu Nazionale Scienza e Tecnologia Leonardo da Vinci during the Covid pandemic.
-The objective was to create one single robot, easy to use, that could be deployed by anyone who read the simple manual and that accomplish two different missions:
-- First scenario is during covid, so the idea was to attract people at train stations, or semi-public areas with the objective of getting peoples attention and inviting them to visit the virtual exposition
+Pluto is a robot built to engage people to visit the virtual exposition of the space exhibition at the Museo Nazionale Scienza e Tecnologia Leonardo da Vinci during the Covid pandemic.
+The objective was to create one single robot, easy to use, that could be deployed by anyone who reads the simple manual and that accomplish two different missions:
+- First scenario is during covid, so the idea was to attract people at train stations, or semi-public areas with the objective of getting peoples attention and inviting them to visit the virtual exposition.
 - The second one was to be placed inside the museum after it opens, being part of the exhibition itself.
 
 All the detailed information are contained in the file 'Report.pdf'.
